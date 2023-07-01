@@ -7,6 +7,7 @@ import { PiStudentFill } from "react-icons/pi";
 import { BiSolidContact } from "react-icons/bi";
 import AboutMe from "./Components/AboutME/AboutMe";
 import { GiSkills } from "react-icons/gi";
+import Skill from "./Components/SkillSection/Skill";
 
 function App() {
   const menubar = (
@@ -56,15 +57,16 @@ function App() {
         <div className="drawer-content bg-slate-100 scroll-smooth">
           <Introduction />
           <AboutMe/>
+          <Skill/>
 
           <label
             htmlFor="my-drawer"
-            className="px-4 py-2 border absolute top-1 left-1 rounded-md shadow-md"
+            className="px-4 py-2 border top-1 right-1 bg-slate-500 bg-opacity-75 rounded-md shadow-md fixed z-50"
           >
             <HiMenuAlt3 className="text-2xl text-white" />
           </label>
         </div>
-        <div className="drawer-side bg-transparent">
+        <div className="drawer-side h-full">
           <label htmlFor="my-drawer" className="drawer-overlay"></label>
           <ul className="p-4 w-80 h-full bg-slate-100 text-base-content">
             <img

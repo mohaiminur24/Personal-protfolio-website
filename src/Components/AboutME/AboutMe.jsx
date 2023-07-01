@@ -11,7 +11,7 @@ const AboutMe = () => {
         <h1 className="text-2xl font-inter text-center font-bold">
           Know <span className="border-b-2 border-yellow-500">Me</span> More
         </h1>
-        <div className="grid grid-cols-1 md:grid-cols-2 mt-16">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mt-16">
           <div>
             <h1 className="text-lg font-bold">
               I am <span className="text-yellow-500">junior React js</span>{" "}

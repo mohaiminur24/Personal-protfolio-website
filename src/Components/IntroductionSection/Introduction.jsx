@@ -10,8 +10,8 @@ const Introduction = () => {
           <h1 className="text-2xl border-b-2 border-yellow-500 w-fit mx-auto tracking-tighter">
             Welcome
           </h1>
-          <h2 className="tracking-tighter text-4xl">Mohaiminur Rahman Mukta</h2>
-          <h3 className="text-2xl flex justify-center gap-3">
+          <h2 className="tracking-tighter text-2xl md:text-4xl">Mohaiminur Rahman Mukta</h2>
+          <h3 className="text-lg md:text-2xl flex justify-center gap-3">
             <span>I am</span>
             <span className="text-yellow-500">
               <Typewriter
