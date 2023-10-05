@@ -37,8 +37,8 @@ const AboutMe = () => {
               </p>
 
               <div className="flex gap-5 flex-wrap">
-                <a className="p-3 border-yellow-500 rounded-md shadow-sm border hover:bg-yellow-100" target="_blank" href="https://www.linkedin.com/in/font-end-website-developer/"><RiLinkedinFill/></a>
-                <a className="p-3 border-yellow-500 rounded-md shadow-sm border hover:bg-yellow-100" target="_blank" href="https://github.com/DeveloperMMR"><RiGithubFill/></a>
+                <a className="p-3 border-yellow-500 rounded-md shadow-sm border hover:bg-yellow-100" target="_blank" href="https://www.linkedin.com/in/mohaiminur-mernstack/"><RiLinkedinFill/></a>
+                <a className="p-3 border-yellow-500 rounded-md shadow-sm border hover:bg-yellow-100" target="_blank" href="https://github.com/Mohaiminur-MernStackDeveloper"><RiGithubFill/></a>
                 <a className="p-3 border-yellow-500 rounded-md shadow-sm border hover:bg-yellow-100" target="_blank" href="https://www.youtube.com/channel/UCTREYx96uQjixXpSllqzQtQ"><RiYoutubeLine/></a>
                 <a className="p-3 border-yellow-500 rounded-md shadow-sm border hover:bg-yellow-100" target="_blank" href="https://web.facebook.com/developermmr/"><RiFacebookFill/></a>
               </div>
