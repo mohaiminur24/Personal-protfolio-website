@@ -30,7 +30,7 @@ const Introduction = () => {
               />
             </span>
           </h3>
-          <a href='https://drive.google.com/uc?export=download&id=1_eOTGDDuZsdh89FbaNoDT-gM-8csHzKN' className="px-5 inline-block py-2 border text-xs rounded-md shadow-sm">
+          <a href='https://drive.google.com/file/d/1j0-rba3Owwq2mOtnVe5DiZzsLxRZkvqP/view?usp=sharing' className="px-5 inline-block py-2 border text-xs rounded-md shadow-sm">
             Download Resume
           </a>
         </div>
